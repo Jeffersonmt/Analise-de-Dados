@@ -8,4 +8,5 @@ Isso representa uma perda de milhões para a empresa.
 
 O que a empresa precisa fazer para resolver isso?
 
-- O desafio foi resolvido no jupyter 
+- O desafio foi resolvido no jupyter
+- Foi utilizado Python
